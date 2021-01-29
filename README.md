@@ -1,14 +1,14 @@
 # Feux-tricolores
 
-This very simple project was carried out during the 2018 - 2019 school year to discover object-oriented programming.
+C'est un projet vraiment simple réalisé durant l'année scolaire 2018 - 2019 afin de découvrir la programmation orientée objet.
 
 ## Goal
 
-Initially, the aim was simply to create a traffic light where you can control the 3 available colours (Green, Orange, Red) thanks to a button on the side of it.
+Dans un premier temps, le but était simplement de créer un feu tricolore où l'on peut contrôler les 3 couleurs disponibles (Vert, Orange, Rouge) grâce à un bouton situé sur le côté de celui-ci.
 
-In a second step, it had to be automated so that the programme would change the colours of the traffic light by itself, leaving each colour for a certain number of seconds.
-Unfortunately, I lost this part of the project.
+Dans un deuxième temps, il fallait l'automatiser de sorte à ce que le programme change les couleurs du feu tricolore tout seul en laissant chaque couleurs un certain nombre de secondes.
+Malheureusement, j'ai perdu ce morceau.
 
 ## Building
 
-Created with Visual Studio 2017 using Windows 7.
+Créé avec Visual Studio 2017, sous Windows 7.
